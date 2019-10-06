@@ -13,6 +13,7 @@ Intel Core i7 7700HQ 2.8GHz CPU
 16GB RAM
 NVidea GeForce GTX 1050 4GB GPU
 
-Software
+Software:
 NVidea CUDA Toolkit 10.0
+
 Python 3.7 (Anaconda 1.9.7 distribution)
